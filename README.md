@@ -1,6 +1,4 @@
-# 🌏 <a href='https://globalland.vn/property' target='_blank'>Global Land Viet Nam</a>
-
-## - Explore <a href='https://globalland.vn/property-for-lease' target='_blank'>our properties</a> through the Site Map below:
+## 🌏 Explore <a href='https://globalland.vn/property-for-lease' target='_blank'>our properties</a> through the Site Map below:
 
 <p><li><a href='https://globalland.vn/apartment-ho-chi-minh-for-lease' target='_blank'>Apartment in Ho Chi Minh For lease</a></li></p>
 <p><li><a href='https://globalland.vn/serviced-apartment-ho-chi-minh-for-lease' target='_blank'>Serviced Apartment in Ho Chi Minh For lease</a></li></p>
